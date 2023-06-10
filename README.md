@@ -3,4 +3,4 @@ I'm Atlas, a student with a passion for problem-solving and creating innovative 
 
 If you're interested in collaborating on exciting projects or discussing ideas, do reach out. I'm always open to new opportunities and connections! 
 
-![My Discord profile](https://scontent.fpen1-2.fna.fbcdn.net/v/t1.15752-9/348381687_574343654882732_7054667624096987050_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=hxKHcRRLCJ8AX-JILfx&_nc_ht=scontent.fpen1-2.fna&oh=03_AdQbJI7HrfhzSnNlv4rd0O_Au6hISCv9YqtzIOUzeC1ZqA&oe=64ABD0AA){:width="300px"}
+<img src="[image_url](https://scontent.fpen1-2.fna.fbcdn.net/v/t1.15752-9/348381687_574343654882732_7054667624096987050_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=hxKHcRRLCJ8AX-JILfx&_nc_ht=scontent.fpen1-2.fna&oh=03_AdQbJI7HrfhzSnNlv4rd0O_Au6hISCv9YqtzIOUzeC1ZqA&oe=64ABD0AA)" alt="My Discord profile" width="300" height="auto">
