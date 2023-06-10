@@ -5,7 +5,7 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## Discord
 
-I am active on Discord daily. Feel free to reach out to me by clicking on the image or adding me through my user ID.
+Feel free to reach out to me through Discord, by clicking on the image or adding me through my user ID.
 
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="348381687_574343654882732_7054667624096987050_n.png" alt="My Discord profile" width="300" height="auto"></a>
