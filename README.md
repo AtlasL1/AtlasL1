@@ -3,4 +3,4 @@ I'm Atlas, a student with a passion for problem-solving and creating innovative 
 
 If you're interested in collaborating on exciting projects or discussing ideas, do reach out. I'm always open to new opportunities and connections! 
 
-<img src="348381687_574343654882732_7054667624096987050_n.png" alt="My Discord profile" width="300" height="auto">
+<a href https://discord.com/users/860794014764105729/> <img src="348381687_574343654882732_7054667624096987050_n.png" alt="My Discord profile" width="300" height="auto"></a>
