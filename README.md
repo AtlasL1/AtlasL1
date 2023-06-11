@@ -12,4 +12,4 @@ Feel free to reach out to me through Discord, by clicking on the image or adding
 
 ## My Languages 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Python Logo" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Python Logo" width="100">
