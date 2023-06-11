@@ -8,9 +8,10 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 <img src="353257049_999670641396486_5076767518393949945_n.png" alt="Languages">
 
 ## GitHub Statistics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtlasL1&theme=transparent&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtlasL1&theme=transparent&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Discord
 
