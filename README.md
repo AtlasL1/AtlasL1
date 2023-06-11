@@ -1,4 +1,4 @@
-# Hallo! 
+# Hallo! 👋
 
 <img src="gfycat-network-background-7ceo8pg1xxgcqj90.gif" alt="Banner" width="1000">
 
