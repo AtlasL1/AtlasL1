@@ -9,3 +9,7 @@ Feel free to reach out to me through Discord, by clicking on the image or adding
 
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="348381687_574343654882732_7054667624096987050_n.png" alt="My Discord profile" width="300" height="auto"></a>
+
+## My Languages 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Python Logo">
