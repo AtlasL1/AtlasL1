@@ -7,10 +7,20 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 Feel free to reach out to me through Discord, by clicking on the image or adding me through my user ID.
 
+<style> 
+  .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 100;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+    }
+</style>
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="348381687_574343654882732_7054667624096987050_n.png" alt="My Discord profile" width="300" height="auto"></a>
 
 ## My Languages 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Python Logo" width="100">
-<img src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png" alt="C# Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" class="fa" alt="Python Logo" width="100">
+<img src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png" class="fa" alt="C# Logo" width="100">
