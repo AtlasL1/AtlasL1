@@ -11,4 +11,4 @@ Feel free to reach out to me through Discord, by clicking on the image or adding
 
 ## My Languages 
 
-<img src="353257049_999670641396486_5076767518393949945_n.png" alt="Languages" width="500">
+<img src="353257049_999670641396486_5076767518393949945_n.png" alt="Languages">
