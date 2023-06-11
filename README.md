@@ -11,5 +11,4 @@ Feel free to reach out to me through Discord, by clicking on the image or adding
 
 ## My Languages 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" alt="Python Logo" width="100">
-<img src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials.png" alt="C# Logo" width="200">
+<img src="353257049_999670641396486_5076767518393949945_n.png" alt="Languages" width="100">
