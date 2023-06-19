@@ -22,22 +22,22 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 I have a few Discord bots too, and they are all constantly under development.
 
-Simple Bot, my first ever bot, of which I hope to develop into an AI virtual assistant one day: 
+1. Simple Bot, my first ever bot, of which I hope to develop into an AI virtual assistant one day: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1112313592516190298&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
-Fact Bot, who generates random fun facts according to topics: 
+2. Fact Bot, who generates random fun facts according to topics: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1118063952216211456&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
-Orbital Navigator, who is under development for more information and astronomy facts: 
+3. Orbital Navigator, who is under development for more information and astronomy facts: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1119580432191737866&permissions=8&scope=bot%20applications.commands">Link to Authorisation</a>
 
-Atomic Navigator, who is under development for more information and biochemistry facts: 
+4. Atomic Navigator, who is under development for more information and biochemistry facts: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1119623208728023081&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
-Inertia Navigator, who is under development for more information and physics facts: 
+5. Inertia Navigator, who is under development for more information and physics facts: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1120339484278538472&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
-Algebraic Navigator, who is under development for more information and maths facts: 
+6. Algebraic Navigator, who is under development for more information and maths facts: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1120339535755218944&permissions=8&scope=bot%20applications.commands">Link to Authorisation</a>
 
 ### Discord Server 
