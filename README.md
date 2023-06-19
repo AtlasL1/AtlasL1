@@ -27,7 +27,6 @@ Feel free to reach out to me through Discord, by clicking on the image or adding
 I have a few Discord bots too, and they are all constantly under development! 
 
 Simple Bot, my first ever bot, of which I hope to develop into an AI virtual assistant one day: 
-
 <a href="https://discord.com/api/oauth2/authorize?client_id=1112313592516190298&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
 Fact Bot, who generates random fun facts according to topics: 
