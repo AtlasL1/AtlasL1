@@ -22,7 +22,7 @@ Feel free to reach out to me through Discord, by clicking on the image or adding
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="348386669_567219445489426_3421999298237115912_n.jpg" alt="My Discord profile" width="400"></a>
 
-# Discord Bots 
+### Discord Bots 
 
 I have a few Discord bots too, and they are all constantly under development! 
 
@@ -44,6 +44,6 @@ https://discord.com/api/oauth2/authorize?client_id=1120339484278538472&permissio
 Algebraic Navigator, who is under development for more information and maths facts: 
 https://discord.com/api/oauth2/authorize?client_id=1120339535755218944&permissions=8&scope=bot%20applications.commands
 
-# Discord Server 
+### Discord Server 
 
 I have a Discord server just for bot developers, whether digital or physical ones. Feel free to join: https://discord.gg/pGcEX9G4Yn
