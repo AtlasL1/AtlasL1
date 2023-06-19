@@ -21,3 +21,29 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 Feel free to reach out to me through Discord, by clicking on the image or adding me through my user ID.
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="348386669_567219445489426_3421999298237115912_n.jpg" alt="My Discord profile" width="400"></a>
+
+# Discord Bots 
+
+I have a few Discord bots too, and they are all constantly under development! 
+
+Simple Bot, my first ever bot, of which I hope to develop into an AI virtual assistant one day: 
+https://discord.com/api/oauth2/authorize?client_id=1112313592516190298&permissions=8&scope=applications.commands%20bot
+
+Fact Bot, who generates random fun facts according to topics: 
+https://discord.com/api/oauth2/authorize?client_id=1118063952216211456&permissions=8&scope=applications.commands%20bot
+
+Orbital Navigator, who is under development for more information and astronomy facts: 
+https://discord.com/api/oauth2/authorize?client_id=1119580432191737866&permissions=8&scope=bot%20applications.commands
+
+Atomic Navigator, who is under development for more information and biochemistry facts: 
+https://discord.com/api/oauth2/authorize?client_id=1119623208728023081&permissions=8&scope=applications.commands%20bot
+
+Inertia Navigator, who is under development for more information and physics facts: 
+https://discord.com/api/oauth2/authorize?client_id=1120339484278538472&permissions=8&scope=applications.commands%20bot
+
+Algebraic Navigator, who is under development for more information and maths facts: 
+https://discord.com/api/oauth2/authorize?client_id=1120339535755218944&permissions=8&scope=bot%20applications.commands
+
+# Discord Server 
+
+I have a Discord server just for bot developers, whether digital or physical ones. Feel free to join: https://discord.gg/pGcEX9G4Yn
