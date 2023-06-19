@@ -42,7 +42,7 @@ I have a few Discord bots too, and they are all constantly under development.
 
 ### Discord Server 
 
-I have a Discord server just for bot developers, whether digital or physical ones. Feel free to join: https://discord.gg/pGcEX9G4Yn
+I also have a Discord server just for bot developers, whether digital or physical ones. This is the link, if interested: https://discord.gg/pGcEX9G4Yn
 
 ### Discord User
 
