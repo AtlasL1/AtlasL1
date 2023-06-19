@@ -18,13 +18,9 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## Discord
 
-Feel free to reach out to me through Discord, by clicking on the image or adding me through my user ID.
-
-<a href="https://discord.com/users/860794014764105729/"> <img src="348386669_567219445489426_3421999298237115912_n.jpg" alt="My Discord profile" width="400"></a>
-
 ### Discord Bots 
 
-I have a few Discord bots too, and they are all constantly under development! 
+I have a few Discord bots too, and they are all constantly under development.
 
 Simple Bot, my first ever bot, of which I hope to develop into an AI virtual assistant one day: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1112313592516190298&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
@@ -47,3 +43,10 @@ Algebraic Navigator, who is under development for more information and maths fac
 ### Discord Server 
 
 I have a Discord server just for bot developers, whether digital or physical ones. Feel free to join: https://discord.gg/pGcEX9G4Yn
+
+### Discord User
+
+Feel free to reach out to me through Discord, by clicking on the image or adding me through my user ID!
+
+<a href="https://discord.com/users/860794014764105729/"> <img src="348386669_567219445489426_3421999298237115912_n.jpg" alt="My Discord profile" width="400"></a>
+
