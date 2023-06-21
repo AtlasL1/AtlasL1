@@ -50,5 +50,5 @@ This is the link, if interested: https://discord.gg/pGcEX9G4Yn
 
 Feel free to reach out to me through Discord, by clicking on the image or adding me through my username! But first, do clarify that you reached out to me through here. 
 
-<a href="https://discord.com/users/860794014764105729/"> <img src="355442167_801347781402594_3690403725302091626_n.jpg" alt="My Discord profile" width="400"></a>
+<a href="https://discord.com/users/860794014764105729/"> <img src="354464223_199060929391372_6597227636248512472_n.jpg" alt="My Discord profile" width="400"></a>
 
