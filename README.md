@@ -48,7 +48,7 @@ This is the link, if interested: https://discord.gg/pGcEX9G4Yn
 
 ### Discord User
 
-Feel free to reach out to me through Discord, by clicking on the image or adding me through my user ID! But first, do clarify that you reached out to me through here. 
+Feel free to reach out to me through Discord, by clicking on the image or adding me through my username! But first, do clarify that you reached out to me through here. 
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="355442167_801347781402594_3690403725302091626_n.jpg" alt="My Discord profile" width="400"></a>
 
