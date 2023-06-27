@@ -28,18 +28,6 @@ I have a few Discord bots too, and they are all constantly under development.
 2. Fact Bot, who generates random fun facts according to topics: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1118063952216211456&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
-3. Orbital Navigator, who is under development for more information and astronomy facts: 
-<a href="https://discord.com/api/oauth2/authorize?client_id=1119580432191737866&permissions=8&scope=bot%20applications.commands">Link to Authorisation</a>
-
-4. Atomic Navigator, who is under development for more information and biochemistry facts: 
-<a href="https://discord.com/api/oauth2/authorize?client_id=1119623208728023081&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
-
-5. Inertia Navigator, who is under development for more information and physics facts: 
-<a href="https://discord.com/api/oauth2/authorize?client_id=1120339484278538472&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
-
-6. Algebraic Navigator, who is under development for more information and maths facts: 
-<a href="https://discord.com/api/oauth2/authorize?client_id=1120339535755218944&permissions=8&scope=bot%20applications.commands">Link to Authorisation</a>
-
 ### Discord Server 
 
 I also have a Discord server just for bot developers, whether digital or physical ones. No judgement here, we're just amateurs helping each other out, sharing projects and ideas. 
