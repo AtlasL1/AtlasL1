@@ -1,4 +1,4 @@
-![image](https://github.com/AtlasL1/AtlasL1/assets/121162287/e5460fcd-93cd-4428-b521-0e97ae582620)# Hallo! 👋
+# Hallo! 👋
 
 <img src="aaa.gif" alt="Banner" width="1000">
 
