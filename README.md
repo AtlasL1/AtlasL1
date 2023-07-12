@@ -20,13 +20,15 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ### Discord Bots 
 
-I have a few Discord bots too, and they are all constantly under development.
+Some of these Discord bots were created and developed by me, although unused and unverified:
 
-1. Simple Bot, my first ever bot, of which I hope to develop into an AI virtual assistant one day: 
+1. Simple Bot, my first ever bot, of which I hoped to develop into an AI virtual assistant one day: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1112313592516190298&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
 2. Fact Bot, who generates random fun facts according to topics: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1118063952216211456&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
+
+They are only my beginner projects. A bigger and official bot is on the way: Helios. 
 
 ### Discord Server 
 
