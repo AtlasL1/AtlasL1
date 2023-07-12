@@ -1,4 +1,4 @@
-# Hallo! 👋
+![image](https://github.com/AtlasL1/AtlasL1/assets/121162287/e5460fcd-93cd-4428-b521-0e97ae582620)# Hallo! 👋
 
 <img src="aaa.gif" alt="Banner" width="1000">
 
@@ -38,5 +38,5 @@ This is the link, if interested: https://discord.gg/xASEtwRPta
 
 Feel free to reach out to me through Discord, by clicking on the image or adding me through my username! But first, do clarify that you reached out to me through here. 
 
-<a href="https://discord.com/users/860794014764105729/"> <img src="dis.jpg" alt="My Discord profile" width="400"></a>
+<a href="https://discord.com/users/860794014764105729/"> <img src="Rodion_1.jpg" alt="My Discord profile" width="400"></a>
 
