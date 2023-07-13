@@ -34,6 +34,23 @@ They are only my beginner projects. A bigger and official bot is on the way: Hel
 
 I also have a Discord server just for bot developers, whether digital or physical ones. No judgement here, we're just amateurs helping each other out, sharing projects and ideas. 
 
+#### Bots Under Construction
+Bots Under Construction is a community for bot developers, whether physical robots or digital ones. Beginners, amateurs, and experts are all welcomed. 
+
+###### A few things about Bots Under Construction:**
+1. We are looking for more moderators and bot analysers
+2. We are more than happy to receive bot adding requests
+3. Still a very small community hoping to grow bigger
+4. We strive to maintain a healthy community
+
+##### What you can do here:**
+1. Add your bots
+2. Improve or help others in bot developing or programming in general
+3. Find people with similar interests
+4. Test bots of your own and others' too
+5. Get your own channel for your bot (Your bot will be separated from members!)
+6. Discuss your ideas or collaborate on projects
+
 This is the link, if interested: https://discord.gg/xASEtwRPta
 
 ### Discord User
