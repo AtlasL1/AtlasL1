@@ -49,7 +49,7 @@ Bots Under Construction is a community for bot developers, whether physical robo
 5. Get your own channel for your bot (Your bot will be separated from members!)
 6. Discuss your ideas or collaborate on projects
 
-This is the link, if interested: https://discord.gg/xASEtwRPta
+All you need is to click on "Join" if you're interested.
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)
 
