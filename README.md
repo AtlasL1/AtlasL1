@@ -50,7 +50,7 @@ Bots Under Construction is a community for bot developers, whether physical robo
 6. Discuss your ideas or collaborate on projects
 
 This is the link, if interested: https://discord.gg/xASEtwRPta
-![Discord Banner 2](https://discordapp.com/api/guilds/1112353759784341614/widget.png?style=banner2)
+
 <img src="https://discordapp.com/api/guilds/1112353759784341614/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 ### Discord User
