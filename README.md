@@ -49,6 +49,8 @@ Bots Under Construction is a community for bot developers, whether physical robo
 5. Get your own channel for your bot (Your bot will be separated from members!)
 6. Discuss your ideas or collaborate on projects
 
+<iframe src="https://discord.com/widget?id=1112353759784341614&theme=dark" width="500" height="650" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 This is the link, if interested: https://discord.gg/xASEtwRPta
 
 ### Discord User
