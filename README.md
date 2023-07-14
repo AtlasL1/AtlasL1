@@ -48,7 +48,9 @@ Bots Under Construction is a community for bot developers, whether physical robo
 4. Test bots of your own and others' too
 5. Get your own channel for your bot (Your bot will be separated from members!)
 6. Discuss your ideas or collaborate on projects
-
+<body>
+<iframe src="https://discord.com/widget?id=1112353759784341614&theme=dark" width="500" height="650" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  </body>
 This is the link, if interested: https://discord.gg/xASEtwRPta
 
 ### Discord User
@@ -56,5 +58,4 @@ This is the link, if interested: https://discord.gg/xASEtwRPta
 Feel free to reach out to me through Discord, by clicking on the image or adding me through my username! But first, do clarify that you reached out to me through here. 
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="Rodion_1.jpg" alt="My Discord profile" width="400"></a>
-<iframe src="https://discord.com/widget?id=1112353759784341614&theme=dark" width="500" height="650" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
