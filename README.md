@@ -51,7 +51,7 @@ Bots Under Construction is a community for bot developers, whether physical robo
 
 This is the link, if interested: https://discord.gg/xASEtwRPta
 
-<img src="https://discordapp.com/api/guilds/1112353759784341614/widget.png?style=banner2" alt="Discord Banner 2"/>
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/xASEtwRPta))
 
 ### Discord User
 
