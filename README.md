@@ -59,3 +59,11 @@ Feel free to reach out to me through Discord, by clicking on the image or adding
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="Rodion_1.jpg" alt="My Discord profile" width="400"></a>
 
+<iframe
+    title="Discord user embed"
+    width="340"
+    height=192
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=860794014764105729&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&"
+></iframe>
