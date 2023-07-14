@@ -58,12 +58,3 @@ All you need is to click on "Join" if you're interested.
 Feel free to reach out to me through Discord, by clicking on the image or adding me through my username! But first, do clarify that you reached out to me through here. 
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="Rodion_1.jpg" alt="My Discord profile" width="400"></a>
-
-<iframe
-    title="Discord user embed"
-    width="340"
-    height=192
-    frameborder="0"
-    sandbox="allow-scripts"
-    src="https://widgets.vendicated.dev/user?id=860794014764105729&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&"
-></iframe>
