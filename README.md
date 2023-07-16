@@ -20,6 +20,8 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ### Bot the Builder 
 
+<img src="123.jpeg" alt="Robot Friends">
+
 I have started a service for custom bots! 
 
 Want a private bot just for your server? Have a unique bot you want but can’t find any? Hit me up with those requests. I'll do my best to make it suit your preferences as much as possible. Note that if it's a much more advanced bot (e.g. AI chatbot) I might need some time. I'm learning while I serve. 
