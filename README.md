@@ -18,9 +18,9 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## Discord
 
-### Bot the Builder 
-
 <img src="123.jpeg" alt="Robot Friends">
+
+### Bot the Builder 
 
 I have started a service for custom bots! 
 
