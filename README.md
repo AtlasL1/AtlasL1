@@ -18,17 +18,17 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## Discord
 
-### Discord Bots 
+### Bot the Builder 
 
-Some of these Discord bots were created and developed by me, although unused and unverified:
+I have started a service for custom bots! 
 
-1. Simple Bot, my first ever bot, of which I hoped to develop into an AI virtual assistant one day: 
-<a href="https://discord.com/api/oauth2/authorize?client_id=1112313592516190298&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
+Want a private bot just for your server? Have a unique bot you want but can’t find any? Hit me up with those requests. I'll do my best to make it suit your preferences as much as possible. Note that if it's a much more advanced bot (e.g. AI chatbot) I might need some time. I'm learning while I serve. 
 
-2. Fact Bot, who generates random fun facts according to topics: 
-<a href="https://discord.com/api/oauth2/authorize?client_id=1118063952216211456&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
+To order a custom bot, all you need is to DM me (Discord: rodion_1) with your description. Please keep it as detailed as possible. Let me know the prefixes you want, whether or not you want the bot's replies to be embedded, etc. This is to prevent inconvenience for the both of us. I aim to keep the quality of my service as high as possible. If possible, list down the commands/abilities you want for the bot and what you want it to do. 
 
-They are only my beginner projects. A bigger and official bot is on the way: Helios. 
+It will be **free of charge** for now, as I am not too advanced of a bot developer myself. However, I am constantly trying to improve. The duration needed for the bot to be completed will vary depending on your requests and my ability. It should take within three months. If it will take me more time than that, I will be sure to let you know.
+
+Note: I do not provide 24/7 hosting.
 
 ### Discord Server 
 
@@ -52,6 +52,18 @@ Bots Under Construction is a community for bot developers, whether physical robo
 All you need is to click on "Join" if you're interested.
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)
+
+### Discord Bots 
+
+Some of these Discord bots were created and developed by me, although unused and unverified:
+
+1. Simple Bot, my first ever bot, of which I hoped to develop into an AI virtual assistant one day: 
+<a href="https://discord.com/api/oauth2/authorize?client_id=1112313592516190298&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
+
+2. Fact Bot, who generates random fun facts according to topics: 
+<a href="https://discord.com/api/oauth2/authorize?client_id=1118063952216211456&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
+
+They are only my beginner projects. A bigger and official bot is on the way: Helios. 
 
 ### Discord User
 
