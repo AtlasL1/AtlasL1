@@ -72,3 +72,6 @@ They are only my beginner projects. A bigger and official bot is on the way: Hel
 Feel free to reach out to me through Discord, by clicking on the image or adding me through my username! But first, do clarify that you reached out to me through here. 
 
 <a href="https://discord.com/users/860794014764105729/"> <img src="Rodion_1.jpg" alt="My Discord profile" width="400"></a>
+
+## My Badges
+<img src = "https://camo.githubusercontent.com/6e8d78b044d638f65e169b344b83e0eb0af52f51da98d0881abda6c69895a561/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47697448756225323050616765732d3232323232323f7374796c653d666f722d7468652d6261646765266c6f676f3d4769744875622532305061676573266c6f676f436f6c6f723d7768697465">
