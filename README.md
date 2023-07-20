@@ -12,9 +12,9 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## GitHub Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtlasL1&theme=transparent&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtlasL1&theme=transparent&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=AtlasL1&theme=transparent&background=000000)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)
 
 ## Discord
 
