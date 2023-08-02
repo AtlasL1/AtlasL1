@@ -14,7 +14,7 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AtlasL1&theme=transparent&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=AtlasL1&theme=transparent&background=000000)
 
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&layout=compact&theme=transparent&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)
 
 ## Discord
 
