@@ -1,6 +1,6 @@
 # Hallo! 👋
 
-<img src="aaa.gif" alt="Banner" width="1000">
+<img src="[aaa.gif](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQtPAQIeL2m0_sirvejZJgaMTJjTev5ACbPrOZSUrvXVofp843)" alt="Banner" width="1000">
 
 I'm Atlas, a student with a passion for problem-solving and creating innovative solutions. I have a stronger background in Python compared to other programming languages, such as C++, Java and so on. I'm a big astronomy and AI enthusiast, and I am willing to discuss or talk to anyone with similar interests. Well, not just those interests, I'm always eager to learn and explore new technologies and branches. 
 
