@@ -53,7 +53,7 @@ Some of these Discord bots were created and developed by me, although unused and
 2. Fact Bot, who generates random fun facts according to topics: 
 <a href="https://discord.com/api/oauth2/authorize?client_id=1118063952216211456&permissions=8&scope=applications.commands%20bot">Link to Authorisation</a>
 
-They are only my beginner projects. A bigger and official bot is on the way: Helios. 
+They are only my beginner projects. A bigger and official bot is on the way. 
 
 ### Discord User
 
