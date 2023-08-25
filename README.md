@@ -20,18 +20,6 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 <img src="123.jpeg" alt="Robot Friends">
 
-### Bot the Builder 
-
-I have started a service for custom bots! 
-
-Want a private bot just for your server? Have a unique bot you want but can’t find any? Hit me up with those requests. I'll do my best to make it suit your preferences as much as possible. Note that if it's a much more advanced bot (e.g. AI chatbot) I might need some time. I'm learning while I serve. 
-
-To order a custom bot, all you need is to DM me (Discord: rodion_1) with your description. Please keep it as detailed as possible. Let me know the prefixes you want, whether or not you want the bot's replies to be embedded, etc. This is to prevent inconvenience for the both of us. I aim to keep the quality of my service as high as possible. If possible, list down the commands/abilities you want for the bot and what you want it to do. 
-
-It will be **free of charge** for now, as I am not too advanced of a bot developer myself. However, I am constantly trying to improve. The duration needed for the bot to be completed will vary depending on your requests and my ability. It should take within three months. If it will take me more time than that, I will be sure to let you know.
-
-Note: I do not provide 24/7 hosting.
-
 ### Discord Server 
 
 #### Bots Under Construction
