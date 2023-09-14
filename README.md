@@ -12,9 +12,9 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
 <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="80">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="80">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="80">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="80"></p>
+<img src="https://cdn-icons-png.flaticon.com/512/152/152760.png" height="80"></p>
 
 ## Discord
 
