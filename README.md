@@ -8,9 +8,9 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## My Languages 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="80"> 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="80">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+<img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+<img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="80">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="80">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="80">
@@ -66,3 +66,5 @@ The player takes the role of a lost traveller who accidentally stumbles upon an 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlasl1&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&hide_border=true"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atlasl1&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
 </p>
+
+<img src="https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg">
