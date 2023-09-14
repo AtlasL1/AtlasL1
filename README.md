@@ -11,9 +11,9 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
 <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
 <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="80">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="80"></p>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100"></p>
 
 ## Discord
 
