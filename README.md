@@ -13,7 +13,7 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="80">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="80">
-<img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" height="80"></p>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="80"></p>
 
 ## Discord
 
