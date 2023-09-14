@@ -12,7 +12,7 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## GitHub Statistics
 
-[![GitHub Streak](https://camo.githubusercontent.com/cd88e8442340697c52ef075cb262427fc68f3583b254d4303281020f5f7c860c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7368756268322d3026636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526637573746f6d5f7469746c653d476974687562267468656d653d616c676f6c696126686964655f626f726465723d747275652662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d3130)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atlasl1&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10)
 
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)
 
