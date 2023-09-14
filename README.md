@@ -12,7 +12,7 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## GitHub Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atlasl1&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atlasl1&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10">
 
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)
 
