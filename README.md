@@ -8,7 +8,7 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ## My Languages 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50"></p>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="80"></p>
 
 ## Discord
 
