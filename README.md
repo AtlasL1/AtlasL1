@@ -14,7 +14,7 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlasl1&count_private=true&show_icons=true&custom_title=Github&theme=algolia&hide_border=true&bg_color=0,000000,130F40&layout=compact&border_radius=10">
 
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasL1&theme=transparent&background=000000)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api?username=atlasl1&amp;show_icons=true&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10&amp;hide_border=true)
 
 ## Discord
 
