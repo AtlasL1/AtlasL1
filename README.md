@@ -18,6 +18,8 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasl1&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;hide_border=true&amp)
 
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=atlasl1&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+
 ## Discord
 
 <img src="123.jpeg" alt="Robot Friends">
