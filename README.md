@@ -48,7 +48,7 @@ Bots Under Construction is a community for bot developers, whether physical robo
 11. Request for your GitHub logs to be featured
 12. Join the server GitHub community organisation (Still growing - https://github.com/BUC1)
 13. Have your bot updates featured in the server
-14. 
+
 All you need is to click on "Join" if you're interested.
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)
