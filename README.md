@@ -56,6 +56,10 @@ All you need is to click on "Join" if you're interested.
 ### Discord Bots 
 __Hack The Cat__
 
+<p align="center">
+![image](https://github.com/AtlasL1/AtlasL1/assets/121162287/a5f77710-a277-4933-b879-639a9dae1da5)
+</p>
+
 Hack and manipulate the system of cats (no illegal activities included) 🐈‍⬛💻
 
 Interested in a Discord bot that's one of a kind? Well, check out Hack the Cat! No special permissions needed except for managing webhooks. Fear not: You don't have to worry if you have a pet cat. It will not be included in this cat-changing catastrophe... or will it?
