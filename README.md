@@ -25,19 +25,30 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
 Bots Under Construction is a community for bot developers, whether physical robots or digital ones. Beginners, amateurs, and experts are all welcomed. 
 
 ###### A few things about Bots Under Construction:
-1. We are looking for more moderators and bot analysers
-2. We are more than happy to receive bot adding requests
-3. Still a very small community hoping to grow bigger
-4. We strive to maintain a healthy community
+1. We make stand-alone channels / threads for every bot (Excluding voice channels)
+2. Every bot gets a separated role with your name, and you get the server contributor role
+3. We are more than happy to receive bot adding requests
+4. Still a very small community hoping to grow bigger
+5. We strive to maintain a healthy community
+6. We follow your bot announcements if you have a server, and if not you still get special permissions to post updates in that channel
+7. English server
+8. More plans and goals are coming when the server meets specific requirements 
 
 ###### What you can do here:
 1. Add your bots
 2. Improve or help others in bot developing or programming in general
 3. Find people with similar interests
 4. Test bots of your own and others' too
-5. Get your own channel for your bot (Your bot will be separated from members!)
+5. Get an own but public space for your bot (Your bot will be separated from members!)
 6. Discuss your ideas or collaborate on projects
-
+7. Join the project forum and update it as something similar to a journal
+8. Participate in fun events
+9. Request partnership with our server (Requirements are fairly low) 
+10. Promote your projects 
+11. Request for your GitHub logs to be featured
+12. Join the server GitHub community organisation (Still growing - https://github.com/BUC1)
+13. Have your bot updates featured in the server
+14. 
 All you need is to click on "Join" if you're interested.
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)
