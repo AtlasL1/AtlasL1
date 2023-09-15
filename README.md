@@ -58,7 +58,7 @@ All you need is to click on "Join" if you're interested.
 <p align="center">
     <img width="200" src="https://github.com/hacktcat/hacktcat.github.io/blob/main/invi.png?raw=true">
 </p>
-<h6 align="center">Hack the Cat</h6>
+<h5 align="center">Hack the Cat</h5>
 <p align="center">An interactive Discord game bot currently in the works. </p>
 
 Hack and manipulate the system of cats (no illegal activities included) 🐈‍⬛💻
