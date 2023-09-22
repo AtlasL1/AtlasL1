@@ -66,11 +66,11 @@ Interested in a Discord bot that's one of a kind? Well, check out Hack the Cat! 
 
 Hack the Cat is an interactive Discord game bot suitable for all ages. It is safe for work and is usually the preference of those who loves cats. It is constantly under development, but you are always welcomed to test it out. It includes stories that vary depending on the choices you make.
 
-The player takes the role of a lost traveller who accidentally stumbles upon an abandoned alley. There, a black cat shows up, and the traveller is forced to join their cat-hacking instituition...
+The player takes the role of a lost traveller who accidentally stumbles upon an abandoned alley. There, a black cat shows up, and the traveller is forced to join their cat-hacking institution...
 
 🔗 Learn more: 
 
-**[Website](https://htc.is-local.org)** | [Support Server](https://dsc.gg/hackthecat) | [Invite](https://dsc.gg/hacktcat) | [Top.gg](https://top.gg/bot/1140593617526857752)
+**[Website](https://htc.is-local.org)** | [Black Cat's Treehouse (Support Server)](https://dsc.gg/htctree) | [Invite](https://dsc.gg/hacktcat) | [Top.gg](https://top.gg/bot/1140593617526857752)
 
 ## GitHub Statistics
 
