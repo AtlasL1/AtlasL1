@@ -2,10 +2,6 @@
 
 <img src="aaa.gif" alt="Banner" width="1000">
 
-I'm Atlas, a student with a passion for problem-solving and creating innovative solutions. I have a stronger background in Python compared to other programming languages, such as C++, Java and so on. I'm a big astronomy and AI enthusiast, and I am willing to discuss or talk to anyone with similar interests. Well, not just those interests, I'm always eager to learn and explore new technologies and branches. 
-
-If you're interested in collaborating on exciting projects or discussing ideas, do reach out. I'm always open to new opportunities and connections! 
-
 ## My Languages 
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="90" title="python">
@@ -14,63 +10,6 @@ If you're interested in collaborating on exciting projects or discussing ideas, 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="100"></p>
-
-## Discord
-
-<img src="123.jpeg" alt="Robot Friends">
-
-### Discord Server 
-
-#### Bots Under Construction
-Bots Under Construction is a community for bot developers, whether physical robots or digital ones. Beginners, amateurs, and experts are all welcomed. 
-
-###### A few things about Bots Under Construction:
-1. We make stand-alone channels / threads for every bot (Excluding voice channels)
-2. Every bot gets a separated role with your name, and you get the server contributor role
-3. We are more than happy to receive bot adding requests
-4. Still a very small community hoping to grow bigger
-5. We strive to maintain a healthy community
-6. We follow your bot announcements if you have a server, and if not you still get special permissions to post updates in that channel
-7. English server
-8. More plans and goals are coming when the server meets specific requirements 
-
-###### What you can do here:
-1. Add your bots
-2. Improve or help others in bot developing or programming in general
-3. Find people with similar interests
-4. Test bots of your own and others' too
-5. Get an own but public space for your bot (Your bot will be separated from members!)
-6. Discuss your ideas or collaborate on projects
-7. Join the project forum and update it as something similar to a journal
-8. Participate in fun events
-9. Request partnership with our server (Requirements are fairly low) 
-10. Promote your projects 
-11. Request for your GitHub logs to be featured
-12. Join the server GitHub community organisation (Still growing - https://github.com/botsunderc)
-13. Have your bot updates featured in the server
-
-All you need is to click on "Join" if you're interested.
-
-[![Join our Discord server!](https://invidget.switchblade.xyz/xASEtwRPta)](https://discord.gg/xASEtwRPta)
-
-### Discord Bots 
-
-<p align="center">
-    <img width="200" src="https://github.com/hacktcat/hacktcat.github.io/blob/main/invi.png?raw=true">
-</p>
-<h4 align="center">Hack the Cat</h4>
-
-Hack and manipulate the system of cats (no illegal activities included) 🐈‍⬛💻
-
-Interested in a Discord bot that's one of a kind? Well, check out Hack the Cat! No special permissions needed except for managing webhooks. Fear not: You don't have to worry if you have a pet cat. It will not be included in this cat-changing catastrophe... or will it?
-
-Hack the Cat is an interactive Discord game bot suitable for all ages. It is safe for work and is usually the preference of those who loves cats. It is constantly under development, but you are always welcomed to test it out. It includes stories that vary depending on the choices you make.
-
-The player takes the role of a lost traveller who accidentally stumbles upon an abandoned alley. There, a black cat shows up, and the traveller is forced to join their cat-hacking institution...
-
-🔗 Learn more: 
-
-**[Website](https://htc.is-local.org)** | [Black Cat's Treehouse (Support Server)](https://dsc.gg/htctree) | [Invite](https://dsc.gg/hacktcat) | [Top.gg](https://top.gg/bot/1140593617526857752)
 
 ## GitHub Statistics
 
