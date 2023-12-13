@@ -1,6 +1,6 @@
 # Hallo! 👋
 
-<img src="aaa.gif" alt="Banner" width="1000">
+<img src="https://mecamacro.com/uploads/1/2/9/1/129105418/managed-entropy-capital-advisors-meca-meca-macro-alternative-investments-blockchain-finance-meca-risk-mutation-data-mining-meca-s-quant-cody-ross.gif" alt="Banner" width="1000">
 
 ## GitHub Statistics
 
