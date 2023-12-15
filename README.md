@@ -2,7 +2,7 @@
 I'm Atlas, an open-source developer who experiments with a little bit of everything. More often than not, you'll find me building APIs, packages, and libraries, navigating the tech world one line of code at a time!
 
 <details><summary>Projects</summary>
-<ul>
+<br><ul>
 <li>Portfolio - <a href="https://atlas.is-not-a.dev">Λtlʌs.Is-Not-A.Dev</a></li>
 <li>(In Progress) Python Package - <a href="https://atlas.is-not-a.dev/architech">Architech</a></li>
 <li>(Ongoing) APIs - <a href="https://atlas.is-not-a.dev/atpi">AtPI</a></li></details>
