@@ -3,9 +3,9 @@ I'm Atlas, an open-source developer who experiments with a little bit of everyth
 
 <details><summary>Projects</summary>
 <br><ul>
-<li>Portfolio - <a href="https://atlas.is-not-a.dev">Λtlʌs.Is-Not-A.Dev</a></li>
-<li>(In Progress) Python Package - <a href="https://atlas.is-not-a.dev/architech">Architech</a></li>
-<li>(Ongoing) APIs - <a href="https://atlas.is-not-a.dev/atpi">AtPI</a></li></details>
+<li>Portfolio - <a href="https://atlas.is-not-a.dev" target="_blank">Λtlʌs.Is-Not-A.Dev</a></li>
+<li>(In Progress) Python Package - <a href="https://atlas.is-not-a.dev/architech" target="_blank">Architech</a></li>
+<li>(Ongoing) APIs - <a href="https://atlas.is-not-a.dev/atpi" target="_blank">AtPI</a></li></details>
   
 <details><summary>GitHub Activity</summary>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atlasl1&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
