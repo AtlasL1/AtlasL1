@@ -1,4 +1,4 @@
-# Hallo! 👋
+# Hallo 👋
 I'm Atlas, an open-source developer who experiments with a little bit of everything. More often than not, you'll find me building APIs, packages, and libraries, navigating the tech world one line of code at a time!
 
 <details><summary>GitHub Statistics</summary>
