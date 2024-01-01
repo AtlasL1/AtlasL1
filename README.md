@@ -1,5 +1,5 @@
 # Hallo 👋
-I'm Atlas, and I'm an open-source developer who mainly works on APIs and libraries. You can check out my stuff here, and feel free to contribute to them!
+I'm Atlas, and I'm an open-source developer who mainly works on APIs and libraries. <br>You can check out my stuff here, and feel free to contribute to them!
 <details><summary>Projects</summary>
 <br><ul>
 <li>Portfolio - <a href="https://atlas.is-not-a.dev" target="_blank">Λtlʌs.Is-Not-A.Dev</a></li>
