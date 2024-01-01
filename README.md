@@ -12,5 +12,5 @@ I'm Atlas, and I'm an open-source developer who mainly works on APIs and librari
 
 <details><summary>Contact Me</summary><br>
 <a href="https://discord.gg/"><img src="https://invidget.switchblade.xyz/TkT5BPkZJG"></a><br><br>
-Alternatively you can DM me there at <a href="https://discord.com/users/860794014764105729">@rodion_0</a>, or send me an email at <a href="mailto:vtlvs.0@gmail.com">vtlvs.0@gmail.com</a>. If I don't reply within four days, remind me again!
+Alternatively you can DM me there at <a href="https://discord.com/users/860794014764105729">@rodion_0</a>, or send me an email at <a href="mailto:vtlvs.0@gmail.com">vtlvs.0@gmail.com</a>. <br>If I don't reply within four days, remind me again!
 </details>
