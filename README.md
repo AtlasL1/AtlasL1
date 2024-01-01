@@ -9,3 +9,6 @@ I'm Atlas, and I'm an open-source developer who mainly works on APIs and librari
 <details><summary>GitHub Activity</summary>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atlasl1&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
 </details>
+
+<details><summary>Contact Me</summary></details>
+<a href="https://discord.gg/c8HZm3at2u"><img src="https://invidget.switchblade.xyz/c8HZm3at2u"></a>
