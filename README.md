@@ -1,5 +1,4 @@
 # Hallo 👋
-I'm Atlas, and here is where you can check out my stuff! 
 
 <details><summary>Projects</summary>
 <br><ul>
