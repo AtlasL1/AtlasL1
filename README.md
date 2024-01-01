@@ -4,7 +4,7 @@ I'm Atlas, an open-source developer who experiments with a little bit of everyth
 <details><summary>Projects</summary>
 <br><ul>
 <li>Portfolio - <a href="https://atlas.is-not-a.dev" target="_blank">Λtlʌs.Is-Not-A.Dev</a></li>
-<li>(In Progress) Python Package - <a href="https://atlas.is-not-a.dev/architech" target="_blank">Architech</a></li>
+<li>(In Progress) Python Package - <a href="https://architech.py-dev.io" target="_blank">Architech</a></li>
 <li>(Ongoing) APIs - <a href="https://atpi.proj.sbs" target="_blank">AtPI.Proj.SBS</a></li></details>
   
 <details><summary>GitHub Activity</summary>
