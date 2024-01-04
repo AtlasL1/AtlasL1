@@ -11,7 +11,7 @@ I'm Atlas, and I'm an open-source developer who mainly works on APIs and librari
 </details>
 
 <details><summary>Contact Me</summary><br>
-<a href="https://discord.com/users/860794014764105729"><img src="https://lanyard.cnrad.dev/api/860794014764105729?bg=000000&idleMessage=Manuscript%20burning."></a><br><br>
+<a href="https://discord.com/users/860794014764105729"><img src="https://lanyard.cnrad.dev/api/860794014764105729?bg=000000&idleMessage=Project%20inactivity."></a><br><br>
 <a href="https://discord.gg/gfWH4zypHe"><img src="https://invidget.switchblade.xyz/gfWH4zypHe"></a><br><br>
 Alternatively you can DM me there at <a href="https://discord.com/users/860794014764105729">@rodion_0</a>, or send me an email at <a href="mailto:vtlvs.0@gmail.com">vtlvs.0@gmail.com</a>. <br>If I don't reply within four days, remind me again!
 </details>
